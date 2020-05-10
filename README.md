@@ -1,5 +1,5 @@
 # course_work3
 
-to run mobile app folow instruction in app/README.md
+mobile app is located [here](https://github.com/zanaviska/arcanoid)
 
 to run server follow instruction in server/README.md
